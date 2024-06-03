@@ -1,21 +1,21 @@
 <table>
   <tr>
-    <td><img src="/assets/images/1.jpeg" width="200" height="200"></td>
-    <td><img src="/assets/images/2.jpeg" width="200" height="200"></td>
-    <td><img src="/assets/images/3.jpeg" width="200" height="200"></td>
-    <td><img src="/assets/images/4.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/1.jpeg" width="250" height="250"></td>
+    <td><img src="/assets/images/2.jpeg" width="250" height="250"></td>
+    <td><img src="/assets/images/3.jpeg" width="250" height="250"></td>
+    <td><img src="/assets/images/4.jpeg" width="250" height="250"></td>
   </tr>
   <tr>
-    <td><img src="/assets/images/5.jpeg" width="200" height="200"></td>
-    <td><img src="/assets/images/6.jpeg" width="200" height="200"></td>
-    <td><img src="/assets/images/7.jpeg" width="200" height="200"></td>
-    <td><img src="/assets/images/8.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/5.jpeg" width="250" height="250"></td>
+    <td><img src="/assets/images/6.jpeg" width="250" height="250"></td>
+    <td><img src="/assets/images/7.jpeg" width="250" height="250"></td>
+    <td><img src="/assets/images/8.jpeg" width="250" height="250"></td>
   </tr>
   <tr>
-    <td><img src="/assets/images/9.jpeg" width="200" height="200"></td>
-    <td><img src="/assets/images/10.jpeg" width="200" height="200"></td>
-    <td><img src="/assets/images/11.jpeg" width="200" height="200"></td>
-    <td><img src="/assets/images/12.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/9.jpeg" width="250" height="250"></td>
+    <td><img src="/assets/images/10.jpeg" width="250" height="250"></td>
+    <td><img src="/assets/images/11.jpeg" width="250" height="250"></td>
+    <td><img src="/assets/images/12.jpeg" width="250" height="250"></td>
   </tr>
 </table>
 # Welcome to your Expo app 👋
