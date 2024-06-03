@@ -1,19 +1,23 @@
-<img src="/assets/images/1.jpeg" width="100" height="100">
-<img src="/assets/images/2.jpeg" width="100" height="100">
-<img src="/assets/images/3.jpeg" width="100" height="100">
-<img src="/assets/images/4.jpeg" width="100" height="100">
-<img src="/assets/images/5.jpeg" width="100" height="100">
-<img src="/assets/images/6.jpeg" width="100" height="100">
-<img src="/assets/images/1.jpeg" width="100" height="100">
-<img src="/assets/images/1.jpeg" width="100" height="100">
-<img src="/assets/images/1.jpeg" width="100" height="100">
-<img src="/assets/images/1.jpeg" width="100" height="100">
-<img src="/assets/images/7.jpeg" width="100" height="100">
-<img src="/assets/images/8.jpeg" width="100" height="100">
-<img src="/assets/images/9.jpeg" width="100" height="100">
-<img src="/assets/images/10.jpeg" width="100" height="100">
-<img src="/assets/images/11.jpeg" width="100" height="100">
-<img src="/assets/images/12.jpeg" width="100" height="100">
+<table>
+  <tr>
+    <td><img src="/assets/images/1.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/2.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/3.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/4.jpeg" width="200" height="200"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/images/5.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/6.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/7.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/8.jpeg" width="200" height="200"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/images/9.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/10.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/11.jpeg" width="200" height="200"></td>
+    <td><img src="/assets/images/12.jpeg" width="200" height="200"></td>
+  </tr>
+</table>
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
